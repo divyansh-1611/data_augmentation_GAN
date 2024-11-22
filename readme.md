@@ -37,5 +37,7 @@ This repository provides a data augmentation pipeline for text using a Generativ
 * Integration with other augmentation techniques.
 * More comprehensive evaluation of the generated samples.
 
+## Contributors
 
-This README provides a comprehensive overview of the repository.  Refer to the individual Python files and the sample configuration file for more details on the specific parameters and functionalities.
+[Divyansh Kumar](https://github.com/divyansh-1611)
+[Sarthak Sharma](https://github.com/Sarthak061)
